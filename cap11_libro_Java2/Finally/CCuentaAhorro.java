@@ -1,4 +1,4 @@
-package ejemplos_excepciones.cap11_libro_Java2.Finally;
+package Finally;
 
 import java.util.*;
 //////////////////////////////////////////////////////////////////

@@ -1,4 +1,4 @@
-package ejemplos_excepciones.cap11_libro_Java2.Crear_excepcion;
+package Crear_excepcion;
 
 public class EValorNoValido extends Exception
 {

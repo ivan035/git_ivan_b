@@ -1,4 +1,4 @@
-package ejemplos_excepciones.excepciones_propias;
+
 
 public class EValorNoValido extends Exception
 {

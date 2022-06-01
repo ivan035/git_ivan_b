@@ -1,4 +1,4 @@
-package ejemplos_excepciones.cap11_libro_Java2.Finally;
+package Finally;
 
 //////////////////////////////////////////////////////////////////
 // Clase CBanco: clase que mantiene una matriz de referencias a

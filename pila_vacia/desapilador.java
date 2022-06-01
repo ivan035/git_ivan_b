@@ -1,4 +1,4 @@
-package ejemplos_excepciones.pila_vacia;
+
 
 import java.util.EmptyStackException;
 
